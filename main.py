@@ -1,10 +1,7 @@
 #####===============================================================================
 #####==============PROYECTO FINAL FUNDAMENTOS DE ANÁLISIS Y DESARROLLO DE ALGORITMOS
 # AUTORES: JUAN DAVID CUERO SARRIA
-#          CARLOS IVAN GUEVAR MOSQUERA
-#          DIEGO ANDRY MURILLO MACHUCA
-#          JECSAN DAVID VERA GOMEZ
-#          JEFFERSON DAVID PORTOCARRERO MARTINEZ
+
 
 import random       # Importamos la funcion Randon para generar numeros aleatorios
 
