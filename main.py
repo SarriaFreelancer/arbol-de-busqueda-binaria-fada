@@ -1,6 +1,6 @@
 #####===============================================================================
 #####==============PROYECTO FINAL FUNDAMENTOS DE ANÁLISIS Y DESARROLLO DE ALGORITMOS
-# AUTORES: JUAN DAVID CUERO SARRIA
+# AUTOR: JUAN DAVID CUERO SARRIA
 
 
 import random       # Importamos la funcion Randon para generar numeros aleatorios
